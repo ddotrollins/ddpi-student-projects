@@ -10,10 +10,7 @@ At the end of the capstone, students should have created a dashboard or data art
 
 ## Topics covered
 - Coding Principles
-- Creating a basic webpage
--- HTML
--- CSS
--- Javascript
+- Creating a basic webpage (HTML, CSS, Javascript)
 - Setting up files and using a text editor
 - How to do local development
 - Using GitHub
