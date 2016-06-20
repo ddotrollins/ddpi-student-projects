@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Death by ZipCode</title>
+
+		<!-- Twitter Bootstrap -->
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+		<!--[if lt IE 9]>
+				<script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.js"></script>
+		<![endif]-->
+
+		<!-- Link to File Specific CSS For This Page Below -->
+		<link rel="stylesheet" href="css/main.css">
+
+	</head>
+
+	<div id="boody"><body>
+		<!-- Start of Your HTML Files Here -->
+		<br>
+<div id="title">	<h><h1>Death by Zip Code</style></h1></h></div>
+<div id="subscript"><p>By Sebastian and Lucas</p>
+<div id="logo"><img src="/Users/lucasbalbach/Documents/html-project/images/muffin 2.png" style="box-shadow: 5px 5px 5px red;"></div>
+<h3><p id="yourstory">Our data shows the different causes of death in various zip codes in California. Our data is taken throughout the time frame of 1999-2013. Our data shows us how these people died, what year they died, and what zip code they died in. Sebastian and I chose this project because be were both interested in health. When we saw this data, both of us were intrigued. We were interested in wether or not the same deaths are prevalent in the same zip codes. This could show how to reduce the amount of deaths in certain areas. This could be made possible by looking at the biggest causes for death in an area and the preventing that kind of death. In our data, we analyzed 5 deaths from each year in the same zip codes. Our data shows that the same deaths reoccur in the same place a lot. This shows that where you are, can determine how you die. In our data there is 13 different types of deaths. Out of the 13 deaths, SUI, or suicide, is the most prevalent type of death. In the zip code 90002 and 90008, suicide was almost every death, even throughout all 14 years. Therefore, these zip codes are not the nicest places to be."</p></h3>
+
+<div id="chartdiv"><h><h2>Graph 1 </h2></h></div>
+<br>
+<html>
+  <head>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <script>
+    google.charts.load('current', { 'packages': ['map'] });
+    google.charts.setOnLoadCallback(drawMap);
+
+    function drawMap() {
+      var data = google.visualization.arrayToDataTable([
+        ['Zip Codes', 'Causes of death'],
+        ['90002', '90002: SUI, SUI, SUI, HYP, SUI, SUI, ALZ.'],
+        ['90005', '90005: HOM, ALZ, ALZ, HOM, LIV, HOM, SUI, SUI, NEP.'],
+        ['90006', '90006: ALZ, ALZ, HYP, NEP, NEP.'],
+        ['90007', '90007: ALZ, ALZ, ALZ, SUI, STK, SUI, HYP, SUI, HYP'],
+        ['90009', '90009: DIA.'],
+        ['90001', '90001: SUI, SUI, ALZ, SUI, ALZ, SUI, SUI.'],
+        ['90010', '90010: CLD, STK, CLZ, PNF, SUI, INJ, PNF, INJ, STK, CLD, INJ.'],
+        ['90003', '90003: SUI, SUI, ALZ.'],
+        ['90004', '90004: ALZ, LIV, NEP.'],
+        ['90008', '90008: SUI, SUI, SUI, SUI, NEP.'],
+      ]);
+
+    var options = { showTip: true };
+
+    var map = new google.visualization.Map(document.getElementById('chart_div'));
+
+    map.draw(data, options);
+  };
+  </script>
+  </head>
+  <body>
+    <div id="chart_div"></div>
+  </body>
+</html>
+<br>
+<h><h2>Graph 2</h2></h>
+<br>
+<div id="graph2"><img src="/Users/lucasbalbach/Documents/html-project/images/image (1).png" style="box-shadow: 5px 5px 5px green">
+<h><h2>Conclusion</h2></h>
+<h3><p id="conclusion">Sebastian and I learned that your location can determine how you die. Using this information, you could avoid bad places and find a very nice place to live. We also learned that suicide is a more common thing than most people would think. If we had more time, or for an extension, Sebastian and I would look at another set of data from the same zip codes. This data set would be much older. We would get something from early 1900’s and compare the data to the data of this project. We would look for trends and differences in the data.</p></h3>
+
+<h3>After all that...here is a fun game to Play C:</h3>
+<div align="center"><object width="640" height="480"><param name="movie" value="http://www.embeddablegames.net/embedgames/superflashmariobros.swf"><param name="quality" value="high"><embed src="http://www.embeddablegames.net/embedgames/superflashmariobros.swf" quality="high" width="640" height="400" type="application/x-shockwave-flash" pluginspage= "http://www.macromedia.com/go/getflashplayer"></embed></object><br/><a href="http://www.knugo.com/games/Mario_Games"><strong>Mario by knugo.com</strong></a></div>
+<p>
+		<!-- End Your HTML Here -->
+
+		<!-- Insert Scripts Here -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+		
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+		<!-- Load in Google Fonts -->
+		<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js"></script>
+		<script>
+		  WebFont.load({
+		    google: {
+		      families: ['Droid Sans', 'Droid Serif']
+		    }
+		  });
+		</script>
+
+		<!-- amCharts javascript sources -->
+		<script type="text/javascript" src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+		<script type="text/javascript" src="http://www.amcharts.com/lib/3/serial.js"></script>
+
+		<!-- Your custom Javascript file -->
+		<script src="js/main.js"></script>
+
+		<!-- End of Scripts -->
+
+	</body>
+</html>

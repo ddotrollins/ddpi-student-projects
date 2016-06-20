@@ -1,0 +1,132 @@
+#text1 {
+	margin-left:2%;
+	margin-right:2%;
+	width: 96%;
+	height: 20%;
+}
+
+#text2 {
+	margin-left:2%;
+	margin-right:2%;
+	width: 96%;
+	height: 20%;
+}
+
+#Overview {
+	margin-left:2%;
+}
+
+#Why {
+	margin-left:2%;
+}	
+
+#video {
+	margin-left:2%;
+}	
+
+#logo {
+	height: 65px;
+	width: 150px;
+}
+
+#gender {
+	margin-left: 7%;
+	height: 540px;
+	width: 600px;	
+	text-align:center;
+}
+
+#race {
+	margin-left: 45%;
+	margin-top: -590px;
+	height: 640px;
+	width: 715px;	
+	padding: 50px;
+}
+
+#mental {
+	margin-left: 14%;
+	padding:50px;
+}
+
+#venue {
+	margin-left: 13%;
+	padding:50px;
+}
+
+
+#fatalities {
+	margin-left: 1%;
+	height: 540px;
+	width: 700px;	
+	border-style: groove;
+	border-width: 2px;
+	border-color:lightgray;
+	text-align:center;
+}
+
+#total {
+	margin-left: 47%;
+	margin-top: -590px;
+	height: 640px;
+	width: 795px;	
+	padding: 50px;
+}
+
+#gender1 {
+	margin-left:2%;
+	margin-right:2%;
+	width: 96%;
+	height: 20%;
+}
+
+#mental1 {
+	margin-left:2%;
+	margin-right:2%;
+	width: 96%;
+	height: 20%;
+}
+
+#venue1 {
+	margin-left:2%;
+	margin-right:2%;
+	width: 96%;
+	height: 20%;
+}
+
+#stats1 {
+	margin-left:2%;
+	margin-right:2%;
+	width: 96%;
+	height: 20%;
+}
+
+#map {
+	margin-left:20%;
+	margin-bottom: 5%;
+	width: 55%;
+	height: 25%;
+}
+
+#logo1 {
+	margin-left:25%;
+	width: 50%;
+	height: 40%;
+}
+
+#time {
+	margin-left: 1%;
+}
+
+#learn {
+	margin-left: 1%;
+}
+
+#Title {
+	margin-left: 2%;
+}
+
+
+
+
+

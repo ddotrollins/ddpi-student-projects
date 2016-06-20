@@ -1,0 +1,38 @@
+#logo {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#title {
+	text-align: center;
+}
+
+#boody {
+	background-color: lightblue;
+}
+
+#subscript {
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#graph2 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 100%;
+	height: 100%;
+	background-color: lightblue;
+}
+
+#yourstory {
+	margin-left: 130px;
+	margin-right: 130px;
+	background-color: white;
+}
+
+#conclusion {
+	margin-left: 130px;
+	margin-right: 130px;
+	background-color: white
+}

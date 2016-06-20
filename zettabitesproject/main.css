@@ -1,0 +1,99 @@
+
+
+
+#box1 {
+	margin-top:10%;
+	text-align: center;
+	font-size: 50px;
+	Font-family: "Trebuchet MS";
+	color: Green;
+}
+
+#name{
+	margin-left:400px;
+	font-size: 20px;
+	Font-family: Trebuchet MS;
+}
+#div1 {
+	margin-top:40px;
+	text-align:center
+}
+
+#div2 {
+	color: black;
+	Font-size: 20px;
+	Font-family: Trebuchet MS;
+	margin-left: 130px;
+	margin-top: 20px;
+	margin-right: 130px;
+}
+
+#div3 {
+	
+	margin-top:25px;
+	text-align: center;
+	font-size:60px;
+}
+
+#div4 {
+	margin-top:50px;
+	color: black;
+	Font-size: 20px;
+	Font-family: Trebuchet MS;
+	margin-left: 130px;
+	margin-top: 20px;
+	margin-right: 130px;
+}
+
+#div5 {
+	font-size:60px;
+	margin-top:25px;
+	text-align:center;
+}
+
+#div6 {
+margin-top:25px;
+	color: black;
+	Font-size: 20px;
+	Font-family: Trebuchet MS;
+	margin-left: 130px;
+	margin-top: 20px;
+	margin-right: 130px;
+}
+
+#div7 {
+	margin-top:30px;
+	text-align:center;
+}
+
+#div8 {
+	color: black;
+	Font-size: 20px;
+	Font-family: Trebuchet MS;
+	margin-left: 130px;
+	margin-top: 20px;
+	margin-right: 130px;
+}
+
+#chart {
+	width:40%;
+	border:3px solid black
+}
+body {
+	background:linear-gradient(skyblue,mintcream);
+}
+
+#head {
+	margin-right:130px;
+	font-size:35px;
+	text-align:center;
+}
+
+#explain {
+	height:50%;
+	width:30%;
+}
+p {
+	text-indent: 3em;
+	text-align: justify;
+}

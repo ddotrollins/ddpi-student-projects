@@ -1,0 +1,78 @@
+body {
+	background-color: #FFD1AA;
+	color: #801515;
+}
+
+#mainheading {
+	text-align: center;
+	color: #004400;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+.conclusion {
+	text-align: center;
+}
+
+.logo {
+	width: 50%;
+	height: 300px;
+	margin-left: 25%;
+}
+.cmap {
+	width: 95%;
+	height: auto;
+	margin: 2.5%;
+}
+.chart {
+	border: solid;
+	border-color: #2D882D;
+	border-width: 5px;
+	width: 48%;
+	margin: 1%;
+	border-radius: 8px;
+}
+
+.pic {
+	display: inline;
+}
+
+div img {
+	width: 15%;
+}
+
+
+
+#chart1 {
+	padding-right: 5px;
+}
+
+.text {
+	font-size: 1.2em;
+	font-family: Comic Sans MS;
+	text-align: center;
+	border: dashed;
+	border-color: #407F7F;
+	border-width: 5px;
+	margin: 35px;
+}
+
+footer{
+	font-size: 1.2em;
+	font-family: Comic Sans MS;
+	text-align: center;
+	border: dashed;
+	border-color: #407F7F;
+	border-width: 5px;
+}
+
+footer p{
+	text-align: center;
+}
+

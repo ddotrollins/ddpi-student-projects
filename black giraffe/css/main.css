@@ -1,0 +1,26 @@
+#hi {
+	text-align:center;
+}
+
+#font{
+	font-family:lato;
+	font-size: 20px;
+	margin-right:3%;
+	margin-left:3%;
+}
+
+#overview{
+	font-family:lato;
+	font-size:30px;
+	text-align:center;
+}
+
+#logo{
+	float:right;
+	height:200px;
+	width:200px;
+}
+
+#head{
+	text-align:center;
+}
